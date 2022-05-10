@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="https://jakarta.ee/xml/ns/jakartaee"
+	xmlns:web="http://xmlns.jcp.org/xml/ns/javaee"
+	xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_5_0.xsd http://xmlns.jcp.org/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
+	id="WebApp_ID" version="5.0">
+	<display-name>Servlet_8_Context_Config</display-name>
+	
+	<welcome-file-list>
+		<welcome-file>ServletOne.java</welcome-file>
+	</welcome-file-list>
+
+	<servlet>
+		<servlet-name>ServletOne</servlet-name>
+		<servlet-class>context_config_example.ServletOne</servlet-class>
+
+		<!-- Setting Config -->
+		<init-param>
+			<param-name>name</param-name>
+			<param-value>anand</param-value>
+		</init-param>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>ServletOne</servlet-name>
+		<url-pattern>/ServletOne</url-pattern>
+	</servlet-mapping>
+
+	<!-- Setting Context -->
+	<context-param>
+		<param-name>name</param-name>
+		<param-value>Anand Dasani</param-value>
+	</context-param>
+
+</web-app>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="https://jakarta.ee/xml/ns/jakartaee"
+	xmlns:web="http://xmlns.jcp.org/xml/ns/javaee"
+	xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_5_0.xsd http://xmlns.jcp.org/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
+	id="WebApp_ID" version="5.0">
+	<display-name>Servelet_2_Basic</display-name>
+
+
+	<!-- Servlet One -->
+	<servlet>
+		<servlet-name>PhaseOne</servlet-name>
+		<servlet-class>evolution.PhaseOne</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>PhaseOne</servlet-name>
+		<url-pattern>/PhaseOne</url-pattern>
+	</servlet-mapping>
+
+
+	<!-- Servlet Two -->
+	<servlet>
+		<servlet-name>PhaseTwo</servlet-name>
+		<servlet-class>evolution.PhaseTwo</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>PhaseTwo</servlet-name>
+		<url-pattern>/PhaseTwo</url-pattern>
+	</servlet-mapping>
+
+
+	<!-- Servlet Three -->
+	<servlet>
+		<description></description>
+		<display-name>PhaseThree</display-name>
+		<servlet-name>PhaseThree</servlet-name>
+		<servlet-class>evolution.PhaseThree</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>PhaseThree</servlet-name>
+		<url-pattern>/PhaseThree</url-pattern>
+	</servlet-mapping>
+	
+	<!-- Test Servlet (Generic) -->
+	<servlet>
+		<servlet-name>Test</servlet-name>
+		<servlet-class>evolution.Test</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>Test</servlet-name>
+		<url-pattern>/Test</url-pattern>
+	</servlet-mapping>
+	
+	<welcome-file-list>
+		<welcome-file>index.html</welcome-file>
+		<welcome-file>index.jsp</welcome-file>
+		<welcome-file>index.htm</welcome-file>
+		<welcome-file>default.html</welcome-file>
+		<welcome-file>default.jsp</welcome-file>
+		<welcome-file>default.htm</welcome-file>
+	</welcome-file-list>
+
+</web-app>
