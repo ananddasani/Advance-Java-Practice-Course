@@ -34,7 +34,7 @@ This are my courses you can take a tour if your are laking some of the concepts 
 
 - **Coding Languages**: Java
 
-- **Tools & Technologies**: Intellij IDEA, Eclipse
+- **Tools & Technologies**: Intellij IDEA (Ultimate), Eclipse, STS
 
 - **Project Management Tools**: Git/Github, Markdown (Documentation)
 
