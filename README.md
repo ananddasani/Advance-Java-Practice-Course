@@ -1,11 +1,11 @@
 ## 📌 Introduction
 
-Advance-Java-Practice-Course contains amazing and awesome Programs written in Java Language. Consider this repository as your personal space to find or add any new Program that can make life easier for newbies programmers and the Open Source community too, as a Developer, and find a utility of coding to burst out of boredom.
+Advance-Java-Practice-Course contains amazing Programs written in Java Language. Consider this repository as your personal space to find or add any new Program that can make life easier for newbies programmers and the Open Source community too, as a Developer, and find a utility of coding to burst out of boredom.
 
 
 ## Project Abstract 🙋
 
-This Advance-Java-Practice-Course will be making use of java language to allow Students to come onto a One-Stop Portal and share Resources and Notes related to their Java Skills which can benefit the other new programmer as a whole. This Practice Course would allow Students to connect over their love of Subjects and helping out of the Community in an effective way, benefitting a lot of Students in the longer run.
+This Advance-Java-Practice-Course will be making use of java language to allow students to come onto a One-Stop Portal and share Resources and Notes related to their Java Skills which can benefit the other new programmer as a whole. This Practice Course would allow Students to connect over their love of Subjects and help out the Community effectively, benefitting a lot of Students in the longer run.
 
 ---
 
