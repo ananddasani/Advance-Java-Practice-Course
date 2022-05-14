@@ -36,6 +36,8 @@ System date and time
               If system_hour>17 & <20: message: “Good evening” 
               If system_hour>20 & <24: message: “Good night” 
 
+---
+
 12. Write a web application that takes marks of 3 subjects from an html page and passes them to servlet. This servlet class contain method getClass()(returns the class as per marks) and getPercentage()(returns the percentage). Display class and percentage in jsp page. 
 
 13. Write a web application that takes username and password from the user from an html page and pass them to jsp page that will check that username and password from user table of database. Upon successful validation of login credentials create a cookie username and redirect to jsp page that will read and display cookie information and show the link that when clicked jsp program will delete the cookie. 
