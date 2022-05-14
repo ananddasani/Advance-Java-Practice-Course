@@ -23,7 +23,7 @@ This are my courses you can take a tour if your are laking some of the concepts 
 2. [JDBC](https://github.com/ananddasani/Advance-Java-Practice-Course/tree/main/JDBC)
 3. [Servlets](https://github.com/ananddasani/Advance-Java-Practice-Course/tree/main/Servelt)
 4. [Practice-Set-1](https://github.com/ananddasani/Advance-Java-Practice-Course/tree/main/Practice-Set-1)
-5. [JSP](https://github.com/ananddasani/Advance-Java-Practice-Course/tree/main/JSP) [Adding Soon]
+5. [JSP + JSTL](https://github.com/ananddasani/Advance-Java-Practice-Course/tree/main/JSP)
 6. [JSF](https://github.com/ananddasani/Advance-Java-Practice-Course/tree/main/JSF) [Adding Soon]
 7. [Hibernate](https://github.com/ananddasani/Advance-Java-Practice-Course/tree/main/Hibernate) [Adding Soon]
 8. [Spring MVC](https://github.com/ananddasani/Advance-Java-Practice-Course/tree/main/Spring%20MVC) [Adding Soon]
