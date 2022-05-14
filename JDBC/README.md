@@ -8,7 +8,7 @@
       * JDBC_4_Inserting_Image_in_DB.java <br>
       * JDBC_5_ResultSetMetaData.java <br>
       
-3. Student Management System
+3. Student Management System (Production Level Code)
 
       * Constants.java
       * MainActivity.java
