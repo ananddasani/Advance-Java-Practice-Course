@@ -27,7 +27,7 @@ This are my courses you can take a tour if your are laking some of the concepts 
 6. [JSF](https://github.com/ananddasani/Advance-Java-Practice-Course/tree/main/JSF) [Adding Soon]
 7. [Hibernate](https://github.com/ananddasani/Advance-Java-Practice-Course/tree/main/Hibernate) [Adding Soon]
 8. [Spring MVC](https://github.com/ananddasani/Advance-Java-Practice-Course/tree/main/Spring%20MVC) [Adding Soon]
-9. [Practice-Set-2](https://github.com/ananddasani/Advance-Java-Practice-Course/tree/main/Practice-Set-2) [Adding Soon]
+9. [Practice-Set-2](https://github.com/ananddasani/Advance-Java-Practice-Course/tree/main/Practice-Set-2)
 
 
 ## Technology Stack 🛠️
