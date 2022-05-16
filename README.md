@@ -21,7 +21,7 @@ This are my courses you can take a tour if your are laking some of the concepts 
 
 1. [Java Networking ](https://github.com/ananddasani/Advance-Java-Practice-Course/tree/main/Java%20Networking) 
 2. [JDBC](https://github.com/ananddasani/Advance-Java-Practice-Course/tree/main/JDBC)
-3. [Servlets](https://github.com/ananddasani/Advance-Java-Practice-Course/tree/main/Servelt)
+3. [Servlets](https://github.com/ananddasani/Advance-Java-Practice-Course/tree/main/Servlet)
 4. [Practice-Set-1](https://github.com/ananddasani/Advance-Java-Practice-Course/tree/main/Practice-Set-1)
 5. [JSP + JSTL](https://github.com/ananddasani/Advance-Java-Practice-Course/tree/main/JSP)
 6. [JSF](https://github.com/ananddasani/Advance-Java-Practice-Course/tree/main/JSF) [Adding Soon]
