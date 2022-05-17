@@ -1,0 +1,24 @@
+<!-- 
+Write a web application that takes username and password from the user from an html page 
+and pass them to jsp page that will check that username and password from user table of database. 
+Upon successful validation of login credentials create a cookie username and redirect to jsp page 
+that will read and display cookie information and show the link 
+that when clicked jsp program will delete the cookie.
+ -->
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Login Page</title>
+</head>
+<body>
+
+	<form action="validate.jsp" method="post">
+		Username <input type="text" name="username"> <br> 
+		Password <input type="password" name="password"> <br> 
+		<input type="submit" value="Login">
+	</form>
+	
+</body>
+</html>
