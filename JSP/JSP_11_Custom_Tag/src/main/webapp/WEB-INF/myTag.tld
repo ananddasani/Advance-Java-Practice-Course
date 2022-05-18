@@ -1,0 +1,12 @@
+<taglib>
+
+	<tlib-version>1.0</tlib-version>
+	<jsp-version>2.0</jsp-version>
+	<uri>WEB-INF/myTag.tld</uri>
+	
+	<tag>
+		<name>HelloTag</name>
+		<body-content>empty</body-content>
+	</tag>
+	
+</taglib>
