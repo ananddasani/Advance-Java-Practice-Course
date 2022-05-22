@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+
+<hibernate-configuration>
+    <session-factory>
+
+        <property name="connection.driver_class">com.mysql.cj.jdbc.Driver</property>
+        <property name="connection.url">jdbc:mysql://localhost:3306/anand</property>
+        <property name="connection.username">root</property>
+        <property name="connection.password">root</property>
+        <property name="show_sql">true</property>
+        <property name="format_sql">true</property>
+        <property name="hbm2ddl.auto">update</property>
+        <property name="dialect">org.hibernate.dialect.MySQL8Dialect</property>
+
+        <mapping class="com.ananddasani.App"/>
+        <mapping class="hbrnt_1_persist.Students"/>
+        <mapping class="hbrnt_2_annotations.Annotations"/>
+        <mapping class="hbrnt_3_insert_image.Image_Hibernate"/>
+        <mapping class="hbrnt_4_get_load.ModelClass"/>
+        <mapping class="hbrnt_5_embedding_object.Student"/>
+        <mapping class="hbrnt_6_HQL_Queries.model.StudentManagement"/>
+        <mapping class="hbrnt_6_HQL_Queries.model.HQLInsert"/>
+        <mapping class="hbrnt_6_HQL_Queries.model.HQLInsertBackup"/>
+        <mapping class="hbrnt_6_HQL_Queries.model.AggregateResultModel"/>
+
+    </session-factory>
+</hibernate-configuration>
