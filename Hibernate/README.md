@@ -22,3 +22,5 @@
   * HQLInsert.java
   * HQLInsertBackup.java
   * StudentManagement.java
+
+* hbrnt_store_retrieve_customer
