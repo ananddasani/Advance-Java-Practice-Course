@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+           http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<!-- xml based configuration for Tyre -->
+	<!-- <bean id="tyre" class="com.anand.Spring2.Annotation_Java.Tyre"> -->
+
+		<!-- Setting Value of Brand using bean property -->
+		<!-- <property name="brand" value=""></property> -->
+
+
+		<!-- Setting Value of Brand using Constructor -->
+		<!-- Construction Injection -->
+		<!-- <constructor-arg value="MRF"></constructor-arg> -->
+		
+	<!-- </bean> -->
+
+</beans>
